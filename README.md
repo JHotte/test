@@ -1,2 +1,7 @@
-# test
-test classmermaid
+classDiagram
+
+class sc_catalog {
+  +sys_id
+  +title
+  +description
+}
